@@ -1,6 +1,9 @@
-package Models;
+package VendingStates.Impl;
 
 import Constants.ErrorMessages;
+import Models.Coin;
+import Models.Item;
+import Models.VendingMachine;
 import VendingStates.Impl.IdleState;
 import VendingStates.State;
 
