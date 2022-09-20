@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesignATM/DesignATM.iml" filepath="$PROJECT_DIR$/DesignATM/DesignATM.iml" />
       <module fileurl="file://$PROJECT_DIR$/LowLevelDesign.iml" filepath="$PROJECT_DIR$/LowLevelDesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/VendingMachine/VendingMachine.iml" filepath="$PROJECT_DIR$/VendingMachine/VendingMachine.iml" />
     </modules>
